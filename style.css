@@ -1,0 +1,22 @@
+/*TASK 1, 2*/
+
+div.c1 {
+    color: red;
+}
+.c2 > .c2 {
+    color: black;
+}
+
+/*TASK 3*/
+#inp2 + span {
+    color: red;
+}
+
+/*TASK 4*/
+
+#inp1+span:hover {
+    color: red;
+}
+#inp1+span+span:hover {
+    color: red;
+}
